@@ -1,3 +1,4 @@
+
 body{
     background: url("https://thumbs.dreamstime.com/b/cappuccino-coffee-milk-black-wooden-background-top-view-free-copy-space-151190038.jpg");
     background-repeat: no-repeat;
@@ -26,3 +27,51 @@ body{
     position: relative;
     left: -300px; 
 }
+
+
+
+
+body{
+    background: url(ASSET/Image1.0.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.REM{
+    position: relative;
+    left: 800px;
+    top: 20px;
+   display: flex;
+  gap: 30px;
+   list-style: none;
+   color: whitesmoke;
+   text-align: right;
+}
+li{
+    text-decoration: none;
+}
+.zach{
+    color: white;
+    float: right;
+    position: relative;
+    right: 200px;
+    top: 200px;
+
+}
+
+.container{
+    position: relative;
+    bottom: 55px;
+   
+      color: white;
+ }
+ .lg{
+    position: relative;
+    top: 25px;
+    right: 30px;
+ }
+ .lg2{
+    position: relative;
+    left: 30px;
+    bottom: 9px;
+ }
+
