@@ -1,5 +1,5 @@
 
-body{
+.bena{
     background: url("https://thumbs.dreamstime.com/b/cappuccino-coffee-milk-black-wooden-background-top-view-free-copy-space-151190038.jpg");
     background-repeat: no-repeat;
     background-size: cover;
@@ -12,7 +12,7 @@ body{
     width: 60%;
     height: 80%;
 }
-.menu{
+.Menu{
     width: 70%;
     height: 10%;
 }
@@ -28,13 +28,16 @@ body{
     left: -300px; 
 }
 
+.fari{
+    background-color: black;
+}
 
 
-
-body{
+.intro{
     background: url(ASSET/Image1.0.jpeg);
     background-repeat: no-repeat;
     background-size: cover;
+    height: 100vh;
 }
 .REM{
     position: relative;
@@ -58,7 +61,7 @@ li{
 
 }
 
-.container{
+.Sammy{
     position: relative;
     bottom: 55px;
    
@@ -68,10 +71,12 @@ li{
     position: relative;
     top: 25px;
     right: 30px;
+    margin-left: 50px;
  }
  .lg2{
     position: relative;
     left: 30px;
     bottom: 9px;
+    margin-left: 50px;
  }
 
